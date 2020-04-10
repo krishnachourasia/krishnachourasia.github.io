@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca394949-7684-4103-bfc1-fc185b34fa4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/images/img_13.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +64,14 @@
       <workItem from="1586445527565" duration="4663000" />
       <workItem from="1586462480097" duration="11950000" />
     </task>
+    <task id="LOCAL-00001" summary="Corrected Images Files">
+      <created>1586482977138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586482977138</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +98,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Corrected Images Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected Images Files" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1586483720028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586483720028" />
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1586480066949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
